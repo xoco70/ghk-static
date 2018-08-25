@@ -19421,19 +19421,6 @@ a:hover {
     color: #333333;
 }
 
-.fusion-page-title-bar {
-    border-color: rgba(210, 211, 212, 0);
-    border: none;
-    background-image: url("//ghk.test/wp-content/uploads/2018/06/avada-movers-blog-header-background.jpg");
-    background-color: #f6f6f6;
-    background-size: cover;
-    height: 337px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -ms-background-size: cover;
-    -o-background-size: cover;
-}
-
 #slidingbar-area .widget-title, #slidingbar-area h3, .fusion-footer-widget-area .widget-title, .fusion-footer-widget-area h3, .fusion-privacy-bar-full .column-title {
     font-family: 'Roboto';
     font-size: 19px;
